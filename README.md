@@ -1,3 +1,3 @@
 # XAI_IITBHU
 
-<h2><b>Research</b></h2>
+<h2><u>Research</u></h2>
