@@ -9,7 +9,7 @@
   2. Graph-Based Manifold Ranking (Bottom-Up)
   <br>(i) Saliency Detection via Graph-Based Manifold Ranking
   <br>
-  <u> Paper:- https://openaccess.thecvf.com/content_cvpr_2013/papers/Yang_Saliency_Detection_via_2013_CVPR_paper.pdf</u>
+  <u> <t>Paper:- https://openaccess.thecvf.com/content_cvpr_2013/papers/Yang_Saliency_Detection_via_2013_CVPR_paper.pdf</t></u>
   <br>
   (ii) Saliency Detection Based on Low-Level and High-Level Features via Manifold-Space Ranking
   <br>
