@@ -14,4 +14,14 @@
   (ii) Saliency Detection Based on Low-Level and High-Level Features via Manifold-Space Ranking
   <br>
   Paper:- https://www.mdpi.com/2079-9292/12/2/449
+  <br>
+  3. Resting State fMRI
+  <br>
+  Links:- 
+  <br>
+  (i) Overview - https://www.sciencedirect.com/topics/medicine-and-dentistry/resting-state-fmri
+  <br>
+  (ii) Paper - https://paperswithcode.com/paper/eag-rs-a-novel-explainability-guided-roi
+  (IEEE Transactions Journal 5 Oct,2023) 
 </b>
+
