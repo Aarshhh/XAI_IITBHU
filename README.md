@@ -1,3 +1,5 @@
+Integrated Latent and Attention Mapping
+
 <h2><u>Research</u></h2>
 <b>
   1. Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization
@@ -52,7 +54,7 @@
 
 ## Explainability Analysis on Benign Sample accross different Magnifications
 
-![Screenshot 2024-10-02 171010](https://github.com/user-attachments/assets/498452ff-7aa2-448a-83bf-9e95633fb2a3)# XAI_IITBHU
+![Screenshot 2024-10-02 171010](https://github.com/user-attachments/assets/498452ff-7aa2-448a-83bf-9e95633fb2a3)
 
 
 
