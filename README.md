@@ -1,7 +1,8 @@
 # Integrated Latent and Attention Mapping (ILAM) - IITBHU 
 
 Medical image analysis demands advanced deep learning and image processing techniques to accurately classify disease categories. In breast cancer classification, leveraging both local and global features is crucial for accurately identifying and distinguishing cancerous regions. This project not only focuses on classification but also emphasizes the importance of explainability in medical AI models.
-By incorporating both local and global features, we enhance the model’s decision-making process, ensuring that its classifications are informed by comprehensive image analysis. In the post-hoc stage, we generate detailed activation maps to visualize and explain the regions contributing to the model's decision, providing transparency and trust in the model's outputs
+By incorporating both local and global features, we enhance the model’s decision-making process, ensuring that its classifications are informed by comprehensive image analysis. In the post-hoc stage, we generate detailed activation maps to visualize and explain the regions contributing to the model's decision, providing transparency and trust in the model's outputs.
+
 Paper under review - ACM Transactions on Intelligent Systems and Technologies
 <h2><u>Research</u></h2>
 <b>
