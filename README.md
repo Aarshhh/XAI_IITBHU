@@ -70,3 +70,5 @@ Paper under review - ACM Transactions on Intelligent Systems and Technologies
 2. Moritz Böhle, Mario Fritz, and Bernt Schiele. 2023. Holistically Explainable Vision Transformers.
 3. Wonsik Jung, Eunjin Jeon, Eunsong Kang, and Heung-Il Suk. 2024. *EAG-RS: A Novel Explainability-Guided ROI-Selection Framework for ASD Diagnosis via Inter-Regional Relation Learning*. IEEE Transactions on Medical Imaging.
 4. Fabio A. Spanhol, Luiz S. Oliveira, Caroline Petitjean, and Laurent Heutte. 2016. *A Dataset for Breast Cancer Histopathological Image Classification*. IEEE Transactions on Biomedical Engineering.
+
+https://medium.com/@brianpulfer/vision-transformers-from-scratch-pytorch-a-step-by-step-guide-96c3313c2e0c
