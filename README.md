@@ -1,4 +1,4 @@
-Integrated Latent and Attention Mapping
+##Integrated Latent and Attention Mapping - IITBHU 
 
 <h2><u>Research</u></h2>
 <b>
