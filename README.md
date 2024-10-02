@@ -54,11 +54,13 @@
 
 ## Explainability Analysis on Benign Sample accross different Magnifications
 
-![Screenshot 2024-10-02 171010](https://github.com/user-attachments/assets/498452ff-7aa2-448a-83bf-9e95633fb2a3)
+![breakHis_exp_b_optimized_9000](https://github.com/user-attachments/assets/e71a9aa3-c9ca-44f9-b5d2-81de03c99dd5)
+
 
 ## Explainability Analysis on Malignant Sample accross different Magnifications
 
-![image](https://github.com/user-attachments/assets/6e982ac2-903a-425a-b4e2-b262c481d9fb)
+![breakHis_exp_m_optimized_9000](https://github.com/user-attachments/assets/7a41efcc-d057-4dc6-9e6f-5672e0d25c57)
+
 
 
 ## References 
