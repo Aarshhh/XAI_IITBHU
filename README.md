@@ -1,4 +1,4 @@
-# XAI_IITBHU
+![Screenshot 2024-10-02 171010](https://github.com/user-attachments/assets/498452ff-7aa2-448a-83bf-9e95633fb2a3)# XAI_IITBHU
 
 <h2><u>Research</u></h2>
 <b>
@@ -51,5 +51,12 @@
 |               | CvT     | 84.01 ± 0.19       | 82.88 ± 0.05       | 93.00 ± 0.48      | 87.65 ± 0.19       | 81.47 ± 0.11       |
 |               | DeiT    | 83.22 ± 0.00       | 83.11 ± 0.10       | 91.00 ± 0.16      | 86.87 ± 0.02       | 81.03 ± 0.05       |
 |               | ViT     | 85.68 ± 2.65       | 84.94 ± 1.11       | 94.89 ± 2.59      | 89.63 ± 1.71       | 81.41 ± 4.03       |
+
+## Explainability Analyis on Benign Sample accross different Magnifications
+
+![image](https://github.com/user-attachments/assets/c583fe80-ec4c-4a23-a6f4-8ca34ae27951)
+
+
+
 
 
